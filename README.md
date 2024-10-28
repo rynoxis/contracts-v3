@@ -6,14 +6,8 @@
       <a href="https://jpg.store">jpg.store</a> v3 contracts powered by <a href="https://aiken-lang.org">Aiken</a>
     </h2>
 
-[![Licence](https://img.shields.io/github/license/jpg-store/contracts-v3)](https://github.com/jpg-store/contracts-v3/blob/main/LICENSE)
-[![Tests](https://github.com/jpg-store/contracts-v3/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/jpg-store/contracts-v3/actions/workflows/tests.yaml)
-
   <hr />
 </div>
-
-This repo contains the smart contracts powering jpg.store. 100% written in
-Aiken.
 
 There are two main contracts: Bid and Ask. Bids are offerings in ADA in exchange
 for a given asset, asks are assets in exchange for ADA.
